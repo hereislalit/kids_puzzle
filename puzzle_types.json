@@ -1,39 +1,38 @@
 {
   "typesOfPuzzle": [
     {
-      "id": "1",
+      "type": "type_1",
       "name": "Animals",
-      "isNew": "true",
+      "isNew": "false",
       "numberOfPuzzle": 32
-    },{
-      "id": "2",
+    },
+    {
+      "type": "type_2",
       "name": "Bugs",
-      "isNew": "true",
+      "isNew": "false",
       "numberOfPuzzle": 32
-    },{
-      "id": "3",
+    },
+    {
+      "type": "type_3",
       "name": "Aqua Life",
-      "isNew": "true",
+      "isNew": "false",
       "numberOfPuzzle": 32
-    },{
-      "id": "4",
+    },
+    {
+      "type": "type_4",
       "name": "Vehicles",
+      "isNew": "false",
+      "numberOfPuzzle": 32
+    },
+    {
+      "type": "type_5",
+      "name": "Birds",
       "isNew": "true",
       "numberOfPuzzle": 32
     },
     {
-      "id": "5",
-      "name": "Birds",
-      "isNew": "true",
-      "numberOfPuzzle": 32
-    },{
-      "id": "6",
+      "type": "type_6",
       "name": "Santa",
-      "isNew": "true",
-      "numberOfPuzzle": 32
-    },{
-      "id": "7",
-      "name": "Terrain",
       "isNew": "true",
       "numberOfPuzzle": 32
     }
